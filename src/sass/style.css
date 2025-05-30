@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3498db;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.main {
+  font-size: 20px;
+}
+.main-content {
+  font-size: 40px;
+}
+/*# sourceMappingURL=style.css.map */
